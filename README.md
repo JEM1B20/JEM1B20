@@ -1,5 +1,5 @@
 ## Hi there 👋
-Meu nome e Isaque
+Meu nome é Isaque Silva
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e
